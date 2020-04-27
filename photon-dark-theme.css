@@ -101,7 +101,7 @@ input[type="search"]::-webkit-search-decoration {
 }
 
 fieldset {
-  border: 0px solid #151515;
+  border: 0px solid #191919;
   margin: 0 2px;
   padding: 0.35em 0.625em 0.75em;
 }
@@ -297,7 +297,7 @@ h6 {
 }
 
 .sidebar {
-  background-color: #151515;
+  background-color: #191919;
 }
 
 .draggable {
@@ -353,9 +353,9 @@ h6 {
   border-bottom-color: #a19fa1;
   border-left-color: #c2c0c2;
   background-color: #fcfcfc;
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #111111), color-stop(100%, #111111));
-  background-image: -webkit-linear-gradient(top, #111111 0%, #111111 100%);
-  background-image: linear-gradient(to bottom, #111111 0%, #1111111 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #161616), color-stop(100%, #161616));
+  background-image: -webkit-linear-gradient(top, #161616 0%, #161616 100%);
+  background-image: linear-gradient(to bottom, #161616 0%, #1616161 100%);
 }
 .btn-default:active {
   background-color: #ddd;
@@ -504,10 +504,10 @@ h6 {
 .toolbar {
   min-height: 22px;
   box-shadow: inset 0 0px 0 #f5f4f5;
-  background-color: #141414;
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #141414), color-stop(100%, #141414));
-  background-image: -webkit-linear-gradient(top, #141414 0%, #141414 100%);
-  background-image: linear-gradient(to bottom, #141414 0%, #141414 100%);
+  background-color: #191919;
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #191919), color-stop(100%, #191919));
+  background-image: -webkit-linear-gradient(top, #191919 0%, #191919 100%);
+  background-image: linear-gradient(to bottom, #191919 0%, #191919 100%);
 }
 .toolbar:before, .toolbar:after {
   display: table;
